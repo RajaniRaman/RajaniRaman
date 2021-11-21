@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajaniRaman
 - 👀 I’m interested in computational mechanism of the visual system
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at rajaniramanzen@gmail.com
 
